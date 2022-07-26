@@ -1,4 +1,8 @@
+# dependencies
 /node_modules
+
+# misc
+.env
 
 # can't send package-lock json
 package-lock.json
