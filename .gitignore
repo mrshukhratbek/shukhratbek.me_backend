@@ -1,0 +1,5 @@
+/node_modules
+
+# can't send package-lock json
+package-lock.json
+yarn.lock
