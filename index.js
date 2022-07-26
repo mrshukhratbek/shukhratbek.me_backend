@@ -1,6 +1,7 @@
 const express = require('express');
+const config = require('./config');
 
-const PORT = process.env.PORT || 4000;
+const PORT = config.PORT || 4000;
 
 const server = express();
 
